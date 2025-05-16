@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_tasks"
+        android:title="Tasks"
+        android:icon="@android:drawable/ic_menu_sort_by_size"/> <!-- System default -->
+    <item
+        android:id="@+id/nav_add"
+        android:title="Add Task"
+        android:icon="@android:drawable/ic_menu_add"/> <!-- System default -->
+</menu>
